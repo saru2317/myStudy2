@@ -1,0 +1,12 @@
+After creat the "newStudy2" the status was untracked
+
+because we coud'nt update in the Repository
+
+Use the code git add study2.txt or git add .
+            Next
+    git commit -m "The file was Updated"
+            Next
+    got push origin main
+the Repository is updated.
+
+The session will be over then next to know the Branches
