@@ -25,4 +25,15 @@ there is no found main branch origin how to check the branch to use the code "gi
 
 now the *master name found instead of main then what we do to change rename as main 
 
-go the another step use the code "git branch -a" main
+go the another step use the code "git branch -M" main
+
+now check the code to "git branch" the main name will be shown
+
+now you can use the updating process
+
+    
+to using code git add study2.txt or git add .
+            Next
+    git commit -m "The file was Updated"
+            Next
+    got push origin main 
