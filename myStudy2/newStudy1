@@ -5,4 +5,24 @@ go to your home page on your GitHub and create the Repository as above mentioned
 
 now we should update the "myStudy2" and "newStudy1" both are updated in the GitHub how..............
 
-We already created in the "myStudy2" repository in the GitHub
+now to use the code "git init" in to the Terminal
+
+We already created in the "myStudy2" repository in the GitHub 
+
+To using the code "git remote add origin" and copy paste the Repository link it will be updated in the vs coed let's try
+
+to using code git add study2.txt or git add .
+            Next
+    git commit -m "The file was Updated"
+            Next
+    got push origin main 
+
+but the file not moved what is the reason ????????????
+
+    " error: failed to push some refs to 'origin' "
+
+there is no found main branch origin how to check the branch to use the code "git branch"
+
+now the *master name found instead of main then what we do to change rename as main 
+
+go the another step use the code "git branch -a" main
